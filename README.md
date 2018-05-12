@@ -1,4 +1,5 @@
 # hello-world
 My first repo
 
-Hello this is the first change to the file hello word.
+test git hub is a repository is fot learning purpose.
+this file is updated by nirav on saturday
